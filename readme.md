@@ -12,7 +12,7 @@ To register a purchase, use the following command:
     python super.py buy --product-name <Product Name> --price <Price per Unit> --expiration-date <Expiration Date>
 
 Examples:
-    python super.py buy --product-name Banana --price 10 0.5 --expiration_date 2023-06-18
+    python super.py buy --product-name Banana --price 10 --expiration-date 2023-06-18
 
 The action will be recorded in a dedicaded CSV file; bought.csv 
 
